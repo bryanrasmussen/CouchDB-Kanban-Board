@@ -6,11 +6,16 @@ Dependencies
 
 ### CouchDB
 
-### CouchApp
+### erica to push
 
 Pushing the application
 --------------------------
-A normal couchapp push after doing a couchapp init should do the trick.
+clone the repository locally, run erica push [NAME OF YOUR KANBAN SITE GOES HERE] 
+note couchdb naming rules apply so "nly lowercase characters (a-z), digits (0-9), and any of the characters _, $, (, ), +, -, and / are allowed. Must begin with a letter."
+
+so as an exaple erica push kanban
+
+
 
 Adding states
 --------------------------
